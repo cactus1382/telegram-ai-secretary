@@ -1,0 +1,6 @@
+node_modules/
+data/secretary.db
+data/secretary.db-wal
+data/secretary.db-shm
+.env
+*.log
